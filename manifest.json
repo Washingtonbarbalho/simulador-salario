@@ -1,0 +1,21 @@
+{
+  "name": "Calculadora de Salário do Vendedor",
+  "short_name": "CalcSalário",
+  "description": "Uma calculadora para estimar o salário líquido de vendedores.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2575fc",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
