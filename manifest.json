@@ -2,7 +2,7 @@
   "name": "Calculadora de Salário",
   "short_name": "CalcSalário",
   "description": "Uma calculadora para vendedores estimarem seus salários líquidos.",
-  "start_url": "/index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#2575fc",
   "theme_color": "#2575fc",
